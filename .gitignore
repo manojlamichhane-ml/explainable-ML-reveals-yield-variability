@@ -1,0 +1,19 @@
+# data (private, see data/README.md)
+data/raw/
+data/processed/
+data/model_input/**/*.csv
+
+*.tif
+*.tiff
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

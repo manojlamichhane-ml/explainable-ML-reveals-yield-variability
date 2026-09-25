@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "dryland-wheat-yield-xai: explainable ML for sub-field wheat yield"
+authors:
+  - family-names: Lamichhane
+    given-names: Manoj
+license: MIT
+preferred-citation:
+  type: article
+  title: "Explainable machine learning reveals water-related drivers of sub-field dryland wheat yield variability"
+  authors:
+    - family-names: Lamichhane
+      given-names: Manoj
+    - family-names: Mehan
+      given-names: Sushant
+    - family-names: Mankin
+      given-names: Kyle R.
+    - family-names: Trooien
+      given-names: Todd
+    - family-names: Maimaitijiang
+      given-names: Maitiniyazi
+    - family-names: Moradi Rekabdarkolaee
+      given-names: Hossein
+  journal: "European Journal of Agronomy"
+  volume: 181
+  start: 128296
+  year: 2026
+  doi: "10.1016/j.eja.2026.128296"
