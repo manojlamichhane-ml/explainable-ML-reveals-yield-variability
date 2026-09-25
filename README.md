@@ -41,7 +41,7 @@ The ML design:
 - **SHAP.** Global importance, direction of effects, and pixel-level SHAP maps that show *where* in a field each driver raises or lowers yield.
 
 <p align="center">
-  <img src="docs/Methodological flowchart.jpg" width="800" alt="Graphical abstract"><br>
+  <img src="docs/Methodologocal flowchart.jpg" width="800" alt="Methodological flowchart"><br>
   <sub>Methodological flowchart from Lamichhane et al. (2026), CC BY-NC 4.0.</sub>
 </p>
 
